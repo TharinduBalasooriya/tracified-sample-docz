@@ -91,6 +91,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/TharinduBalasooriya/docuSo/',

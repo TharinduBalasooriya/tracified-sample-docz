@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tracified Intro
+# Tracified Intro Edited
 
 ● What is Tracified
 ● FAQ

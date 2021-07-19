@@ -12,7 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
+ 
   themeConfig: {
     navbar: {
       title: '',
@@ -21,11 +21,7 @@ module.exports = {
         src: 'img/tracified-logo.png',
       },
 
-      googleAnalytics: {
-        trackingID: 'G-P8M94ZMRHW',
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+    
       items: [
         {
           type: 'doc',
@@ -114,4 +110,16 @@ module.exports = {
       },
     ],
   ],
+};
+
+
+module.exports = {
+  plugins: ['@docusaurus/plugin-google-analytics'],
+  themeConfig: {
+    googleAnalytics: {
+      trackingID: 'G-P8M94ZMRHW',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
+  },
 };

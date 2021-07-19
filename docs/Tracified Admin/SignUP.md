@@ -1,8 +1,11 @@
 ---
-sidebar_position: 1
+sidebar_position: 1 
+
 ---
 
+
 # Getting Started
+[`Certificates`](./certificates) [`Dashboard`](./dashborad) [`Ecom`](./Ecom) [`QR Generator`](./QRGen)
 
 The Admin Portal of Tracified is responsible for the management of users, accounts, Tracified items, artifact details, shop tokens, reports, certificates and generating QR codes. 
 

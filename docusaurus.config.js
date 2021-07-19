@@ -19,6 +19,12 @@ module.exports = {
         alt: 'Tracified Logo',
         src: 'img/tracified-logo.png',
       },
+
+      googleAnalytics: {
+        trackingID: 'G-P8M94ZMRHW',
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
       items: [
         {
           type: 'doc',

@@ -11,4 +11,5 @@ sidebar_position: 4
 
 
 
-How to get shopify URL
+
+How to get shopify URL [`Certificates`](./certificates) [`Dashboard`](./dashborad)

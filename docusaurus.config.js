@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Tracified',
   tagline: 'Welcome to Tracified School',
-  url: 'https://docusaurus-tracified.netlify.app',
+  url: 'https://docs-tracified.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

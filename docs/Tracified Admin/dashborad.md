@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # Dashborad
+import DocsRating from '@site/src/core/DocsRating';
 
 After a successful login, the main dashboard will be displayed. The login history and the activity log can be viewed using this interface. All the past logins from each account, the time and date as well as the record of activities done from each account will be displayed here
 
@@ -17,3 +18,6 @@ Admin portal also notifies and updates the logged in user about any activity and
 ![MarineGEO circle logo](../../static/img/dash3.png "MarineGEO logo")
 
 The menu at the top right corner of the UI is a collapsible dropdown, which consists of direct links to other web portals of Tracified, user account setting and also the option to logout from the account. 
+
+
+<DocsRating />

@@ -2,9 +2,50 @@
 sidebar_position: 5
 ---
 
-# Artifact details
 
-Sample templates
-Add new templates
-Use existing templates
-Delete existing templates
+# Artifact details
+import DocsRating from '@site/src/core/DocsRating';
+
+
+![MarineGEO circle logo](../../static/img/artifact1.png "MarineGEO logo")
+
+Master Data are referred to as Artifacts in Tracified. Artifacts can be created here, as per the requirement. 
+New artifact templates can be defined through the ‘New Template’ button.
+
+![MarineGEO circle logo](../../static/img/artifact2.png "MarineGEO logo")
+
+An appropriate artifact name can be used here and then new artifact attributes should also be added as required. 
+
+![MarineGEO circle logo](../../static/img/artifact3.png "MarineGEO logo")
+
+
+Make sure, at least one attribute is defined for each artifact and many field names can be defined here as per the requirement.
+
+![MarineGEO circle logo](../../static/img/artifact4.png "MarineGEO logo")
+
+Once all the data is added and saved, the template will be successfully created and an alert will show up, notifying the user the successful completion of the 
+action performed.
+
+![MarineGEO circle logo](../../static/img/artifact5.png "MarineGEO logo")
+
+Already created and saved artifact templates can also be viewed, in order to know how and what should be done in creating the artifacts.  
+
+:white_check_mark: If they are appropriate, they can be used to proceed, instead of creating new artifacts
+
+
+![MarineGEO circle logo](../../static/img/artifact6.png "MarineGEO logo")
+
+Previously created and saved templates can be used to proceed, instead of creating new artifacts, if they are appropriate.
+Artifacts can also be deleted if they are inappropriate or not in use anymore. Once the delete alert is confirmed, the selected artifact will be completely deleted and will no longer be available to use. 
+
+Once an artifact is selected to be used, the list of already saved records(refed as master data in tra) will be published. You can add new records by clicking on the ‘+ New Record’ button and all text fields must be filled in order to save the record successfully. 
+Tracified Admin Portal also allows uploading a CSV file in the given format, and once it is correctly uploaded, the artifact will be saved automatically.
+
+![MarineGEO circle logo](../../static/img/artifcat7.png "MarineGEO logo")
+
+
+<DocsRating />
+
+
+
+

@@ -3,9 +3,17 @@ sidebar_position: 6
 ---
 
 # Tracified Items
+import DocsRating from '@site/src/core/DocsRating';
+
+- Items available in the Tracified record systems can be viewed through the “Tracified Items’ page. It contains the item ID, item name and the stages which are included in the supply process of each item. 
+
+- New items can be added to the system through the “+ New Item” button. The new items can be given new names and the required stages can be selected through the toggle buttons and can be saved successfully. 
+
+![MarineGEO circle logo](../../static/img/trcItems1.png "MarineGEO logo")
+
+- Existing items can be edited or deleted; but only the Item Name and the stages can be changed and updated. 
+
+![MarineGEO circle logo](../../static/img/trcItems2.png "MarineGEO logo")
 
 
-CSV upload
-Add new items
-Edit existing items
-Delete items
+<DocsRating />

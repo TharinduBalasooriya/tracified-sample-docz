@@ -4,6 +4,7 @@ sidebar_position: 3
 
 
 # User Management
+import DocsRating from '@site/src/core/DocsRating';
 
 ![MarineGEO circle logo](../../static/img/dash4.png "MarineGEO logo")
 
@@ -25,3 +26,5 @@ The user behaviour for the past logged days can be viewed through the overview o
 The device remembrance records details about the devices, user used to log in.
 Each user account can be disabled through the ‘Disable User’ button.
 
+
+<DocsRating />

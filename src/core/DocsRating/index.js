@@ -20,7 +20,7 @@ function provideFeedbackToGoogleAnalytics(value) {
         window.ga('send',{
             hitType: 'event',
             eventCategory: 'button',
-            eventAction: 'feedback',
+            eventAction: 'feedback' + window.location.pathname,
             eventValue: value,
 
         });

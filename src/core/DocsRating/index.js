@@ -10,35 +10,24 @@
 /* eslint-disable lint/no-value-import */
 import './docsRating.css';
 
-import {fbContent} from 'internaldocs-fb-helpers';
+
 import * as React from 'react';
 /* eslint-enable lint/no-value-import */
 
 function provideFeedbackToGoogleAnalytics(value) {
+    console.log(window.ga)
     if (window.ga) {
-        window.ga('send', {
+        window.ga('send',{
             hitType: 'event',
             eventCategory: 'button',
-            eventAction: 'feedback',
+            eventAction: 'feedback' + window.location.pathname,
             eventValue: value,
+
         });
     }
 }
 
-function fileTask() {
-    const RELAY_DOCS_FEEDBACK_TAG_ID = 3036181703276160;
-    const DO_NOT_REAP_TAG_ID = 1759740284290896;
-    const queryString = window.encodeURI(
-        JSON.stringify({
-            title: 'Feedback about ' + window.location.pathname,
-            description:
-                '**!!! Required !!!**\n\nPlease modify the task description to let us know how the docs can be improved.\n\n' +
-                '**Please do not ask support questions via this form! Instead, ask in fburl.com/relay_support**',
-            tag_ids: {add: [RELAY_DOCS_FEEDBACK_TAG_ID, DO_NOT_REAP_TAG_ID]},
-        }),
-    );
-    window.open('https://www.internalfb.com/tasks/?n=' + queryString);
-}
+
 
 function Wrapper({children}) {
     return (
@@ -83,30 +72,11 @@ const FeedbackButtons = () => {
     );
 };
 
-const FileATaskButton = () => (
-    <p>
-        Let us know how these docs can be improved by
-        <a className="button" role="button" tabIndex={0} onClick={fileTask}>
-            Filing a task
-        </a>
-    </p>
-);
 
-const DocsRatingInternal = () => (
-    <Wrapper>
-        <FileATaskButton />
-        <FeedbackButtons />
-    </Wrapper>
-);
 
 const DocsRatingExternal = () => (
     <Wrapper>
         <FeedbackButtons />
     </Wrapper>
 );
-
-export default () =>
-    fbContent({
-        internal: <DocsRatingInternal />,
-        external: <DocsRatingExternal />,
-    });
+export default  DocsRatingExternal

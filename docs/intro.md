@@ -1,11 +1,12 @@
-
 ---
 sidebar_position: 1
 ---
 
-# Tracified Intro Edited
+# Tracified Intro 
 
 ● What is Tracified
+
+<VideoIframe></VideoIframe>
 ● FAQ
 ● Tracified Purchasing
 
@@ -25,4 +26,3 @@ export const VideoIframe = () => (
   </div>
 );
 
-<VideoIframe></VideoIframe>

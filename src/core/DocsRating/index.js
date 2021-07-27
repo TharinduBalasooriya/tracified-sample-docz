@@ -18,8 +18,6 @@ function provideFeedbackToGoogleAnalytics(value) {
     console.log(window.ga)
     if (window.ga) {
         window.ga('send',{
-            pageName:window.location.pathname
-        }, {
             hitType: 'event',
             eventCategory: 'button',
             eventAction: 'feedback',

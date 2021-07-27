@@ -22,6 +22,7 @@ function provideFeedbackToGoogleAnalytics(value) {
             eventCategory: 'button',
             eventAction: 'feedback',
             eventValue: value,
+            eventPhase:window.location.pathname
         });
     }
 }

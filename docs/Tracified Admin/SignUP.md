@@ -2,7 +2,7 @@
 sidebar_position: 1 
 
 ---
-
+import DocsRating from '@site/src/core/DocsRating';
 
 # Getting Started
 [`Certificates`](./certificates) [`Dashboard`](./dashborad) [`Ecom`](./Ecom) [`QR Generator`](./QRGen)
@@ -35,4 +35,5 @@ If the password is forgotten, the user can reset it, through the ‘get help’ 
 
 The user should enter either username or the used email address and once confirmed, a password reset link will be sent to the appropriate email. Then he/she can set a new password and continue using the portal.
 
+<DDocsRating/>
 

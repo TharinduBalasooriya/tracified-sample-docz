@@ -19,9 +19,10 @@ function provideFeedbackToGoogleAnalytics(value) {
     if (window.ga) {
         window.ga('send',{
             hitType: 'event',
-            eventCategory: 'button',
-            eventAction: 'feedback' + window.location.pathname,
+            eventCategory: 'button'+ + window.location.pathname,
+            eventAction: 'feedback',
             eventValue: value,
+
 
         });
     }

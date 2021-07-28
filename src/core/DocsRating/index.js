@@ -15,12 +15,15 @@ import * as React from 'react';
 /* eslint-enable lint/no-value-import */
 
 function provideFeedbackToGoogleAnalytics(value) {
-    console.log(window.ga)
+
+    let path = window.location.pathname;
+    let page = path.split("/").pop();
+    console.log(page);
     if (window.ga) {
         window.ga('send',{
             hitType: 'event',
-            eventCategory: 'button'+  window.location.pathname,
-            eventAction: 'feedback',
+            eventCategory: 'button',
+            eventAction: 'feedback '+ page,
             eventValue: value,
 
 
@@ -39,11 +42,12 @@ function Wrapper({children}) {
     );
 }
 
-const FeedbackButtons = () => {
+const FeedbackButtons = (props) => {
+    //console.log(props.pageName)
     const [hasProvidedFeedback, setHasProvidedFeedback] = React.useState(false);
     const provideFeedback = value => {
         setHasProvidedFeedback(true);
-        provideFeedbackToGoogleAnalytics(value);
+        provideFeedbackToGoogleAnalytics(value,props.pageName);
     };
     if (hasProvidedFeedback) {
         return 'Thank you for letting us know!';
@@ -76,8 +80,9 @@ const FeedbackButtons = () => {
 
 
 const DocsRatingExternal = () => (
+
     <Wrapper>
-        <FeedbackButtons />
+        <FeedbackButtons/>
     </Wrapper>
 );
 export default  DocsRatingExternal

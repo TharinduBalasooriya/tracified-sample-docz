@@ -11,4 +11,4 @@ import DocsRating from '@site/src/core/DocsRating';
 ![MarineGEO circle logo](../../static/img/certificates1.png "MarineGEO logo")
 
 
-<DocsRating />
+<DocsRating pageName="certificates"/>

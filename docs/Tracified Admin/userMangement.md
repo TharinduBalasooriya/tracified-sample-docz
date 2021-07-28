@@ -27,4 +27,4 @@ The device remembrance records details about the devices, user used to log in.
 Each user account can be disabled through the ‘Disable User’ button.
 
 
-<DocsRating />
+<DocsRating pageName="User Managment"/>

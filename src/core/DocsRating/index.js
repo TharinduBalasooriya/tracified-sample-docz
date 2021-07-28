@@ -14,16 +14,14 @@ import './docsRating.css';
 import * as React from 'react';
 /* eslint-enable lint/no-value-import */
 
-function provideFeedbackToGoogleAnalytics(value) {
+function provideFeedbackToGoogleAnalytics(value,pageName) {
 
-    let path = window.location.pathname;
-    let page = path.split("/").pop();
-    console.log(page + 'Hello');
+
     if (window.ga) {
         window.ga('send',{
             hitType: 'event',
-            eventCategory: 'button '+page,
-            eventAction: 'feedback',
+            eventCategory: 'button' + pageName,
+            eventAction: 'feedback ',
             eventValue: value,
 
 
@@ -79,10 +77,10 @@ const FeedbackButtons = (props) => {
 
 
 
-const DocsRatingExternal = () => (
+const DocsRatingExternal = (props) => (
 
     <Wrapper>
-        <FeedbackButtons/>
+        <FeedbackButtons pageName={props.pageName}/>
     </Wrapper>
 );
 export default  DocsRatingExternal

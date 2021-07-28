@@ -10,7 +10,7 @@ import DocsRating from '@site/src/core/DocsRating';
 - Tracified account and the Shopify Lastmile App can be connected together to enable its functionality. Shop URL should be entered in order to generate a temporary token to configure the plugin. 
 
 
-<DocsRating />
+<DocsRating pageName="LastmileToken"/>
 
 
 

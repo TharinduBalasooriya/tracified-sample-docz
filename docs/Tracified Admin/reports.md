@@ -14,4 +14,4 @@ A preview of the generated report will be displayed at the bottom section of the
 
 
 
-<DocsRating />
+<DocsRating pageName="reports"/>

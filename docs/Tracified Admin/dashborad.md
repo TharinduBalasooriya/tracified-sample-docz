@@ -20,4 +20,4 @@ Admin portal also notifies and updates the logged in user about any activity and
 The menu at the top right corner of the UI is a collapsible dropdown, which consists of direct links to other web portals of Tracified, user account setting and also the option to logout from the account. 
 
 
-<DocsRating />
+<DocsRating pageName="dashboard" />

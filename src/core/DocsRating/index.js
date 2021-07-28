@@ -22,8 +22,8 @@ function provideFeedbackToGoogleAnalytics(value) {
     if (window.ga) {
         window.ga('send',{
             hitType: 'event',
-            eventCategory: 'button',
-            eventAction: 'feedback '+ page,
+            eventCategory: 'button '+page,
+            eventAction: 'feedback',
             eventValue: value,
 
 

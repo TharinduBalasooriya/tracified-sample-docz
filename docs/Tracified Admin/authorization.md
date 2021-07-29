@@ -17,6 +17,6 @@ import DocsRating from '@site/src/core/DocsRating';
 The date ranges from which date the certificate is issued and to which date the certificate will be valid, should be selected, then the relevant template ID should be selected from the pre-defined templates, the total quantity of the product should be entered and any description about the certificate to be issued can also be added. Once all the fields are correctly filled, and clicked on the ‘Issue Certificate’ button, all data will be successfully saved and the certificate will be issued.  
 
 
-<DocsRating />
+<DocsRating pageName="authorization"/>
 
 

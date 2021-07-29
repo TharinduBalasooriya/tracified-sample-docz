@@ -14,14 +14,16 @@ import './docsRating.css';
 import * as React from 'react';
 /* eslint-enable lint/no-value-import */
 
-function provideFeedbackToGoogleAnalytics(value) {
-    console.log(window.ga)
+function provideFeedbackToGoogleAnalytics(value,pageName) {
+
+
     if (window.ga) {
         window.ga('send',{
             hitType: 'event',
-            eventCategory: 'button',
-            eventAction: 'feedback' + window.location.pathname,
+            eventCategory: 'button' + pageName,
+            eventAction: 'feedback ',
             eventValue: value,
+
 
         });
     }
@@ -38,11 +40,12 @@ function Wrapper({children}) {
     );
 }
 
-const FeedbackButtons = () => {
+const FeedbackButtons = (props) => {
+    //console.log(props.pageName)
     const [hasProvidedFeedback, setHasProvidedFeedback] = React.useState(false);
     const provideFeedback = value => {
         setHasProvidedFeedback(true);
-        provideFeedbackToGoogleAnalytics(value);
+        provideFeedbackToGoogleAnalytics(value,props.pageName);
     };
     if (hasProvidedFeedback) {
         return 'Thank you for letting us know!';
@@ -74,9 +77,10 @@ const FeedbackButtons = () => {
 
 
 
-const DocsRatingExternal = () => (
+const DocsRatingExternal = (props) => (
+
     <Wrapper>
-        <FeedbackButtons />
+        <FeedbackButtons pageName={props.pageName}/>
     </Wrapper>
 );
 export default  DocsRatingExternal

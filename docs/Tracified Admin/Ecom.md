@@ -12,4 +12,4 @@ The shopify webshop and the Tracified account can be connected by providing the 
 :white_check_mark: Getting the token and applying that to the shopify web shop
 
 
-<DocsRating />
+<DocsRating pageName="Ecom Token" />

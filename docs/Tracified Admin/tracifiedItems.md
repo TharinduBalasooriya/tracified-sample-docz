@@ -16,4 +16,4 @@ import DocsRating from '@site/src/core/DocsRating';
 ![MarineGEO circle logo](../../static/img/trcItems2.png "MarineGEO logo")
 
 
-<DocsRating />
+<DocsRating pageName="Tracified Items"/>

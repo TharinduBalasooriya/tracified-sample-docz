@@ -3,6 +3,7 @@ sidebar_position: 8
 ---
 
 # Reports
+
 import DocsRating from '@site/src/core/DocsRating';
 
 Different types of system generated reports are available, which can be obtained based on the requirement. Reports types include;** Quantity of Production, Exported Production, Consumer Review, Test specifications, Efficiency of Production, Processed Quantity, Harvested Farm Size, Farmer Rating, Overall Rating, Farm Certification etc. **

@@ -17,7 +17,7 @@ module.exports = {
   themeConfig: {
 
     googleAnalytics: {
-      trackingID: '281214180',
+      trackingID: 'G-SS5FSJK59C',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },

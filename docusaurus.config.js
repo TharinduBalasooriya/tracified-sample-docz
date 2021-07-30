@@ -38,6 +38,7 @@ module.exports = {
           label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/faq', label: 'FAQ', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -88,13 +89,16 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tracified`,
     },
+    
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
   },
+
+  
   presets: [
     [
       '@docusaurus/preset-classic',

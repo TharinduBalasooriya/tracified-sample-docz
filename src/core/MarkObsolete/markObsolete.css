@@ -1,0 +1,16 @@
+.obsolete{
+    background-color: #e0503d;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.obsolete p{
+    color: white;
+    font-size: large;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+
+
+}

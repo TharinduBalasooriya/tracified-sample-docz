@@ -7,7 +7,7 @@ import DocsRating from '@site/src/core/DocsRating';
 
 Tracified Consumer App can be downloaded from the Google play store or Apple app store through the following links.
 
-**Google Play Store - **
+**Google Play Store - https://play.google.com/store/apps/details?id=com.tracified.app.customer&hl=en&gl=US**
 
 **Apple App Store - https://apps.apple.com/lk/app/tracified/id1563877961 **
 

@@ -9,9 +9,9 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/fav2png.png',
+  organizationName: 'Tracified', // Usually your GitHub org/user name.
+  projectName: 'Tracified', // Usually your repo name.
  
  
   themeConfig: {

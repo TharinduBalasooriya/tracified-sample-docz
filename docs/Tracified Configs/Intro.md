@@ -6,7 +6,7 @@ sidebar_position: 1
 
 - Tracified Configs Portal can be accessed via the Tracified Admin.
 
-![MarineGEO circle logo](../../static/img/config22.png "MarineGEO logo")
+![MarineGEO circle logo](../../static/img/config22.PNG "MarineGEO logo")
 
 Tracified configs will be where the configurations made by the users to augment the system to their supply chain. This includes storage of  workflow and artifact configurations and Field Officer user interfaces. Tracified will allow the users to create their workflows ** through two options**.
 

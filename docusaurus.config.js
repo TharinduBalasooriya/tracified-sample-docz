@@ -9,9 +9,11 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+
+  favicon: 'img/fav2png.png',
   organizationName: 'tracified', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
+
  
  
   themeConfig: {

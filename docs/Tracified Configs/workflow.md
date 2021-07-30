@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # Workflow
+import DocsRating from '@site/src/core/DocsRating';
 
 Workflow creation can be done for all stages of the supply chain through Tracified Configs Portal.
 
@@ -72,3 +73,4 @@ Drag and drop the required fields to be grouped together to the dark grey box, a
 
 You can now publish the group by clicking on the **‘Publish’ ** button. Then you will see an alert saying the process was successfully completed. 
 
+<DocsRating pageName="certificates"/>

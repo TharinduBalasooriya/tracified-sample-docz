@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # Recall Management
+import DocsRating from '@site/src/core/DocsRating';
 
 
 -  Recall Management comprises four main functionalities. 
@@ -101,4 +102,6 @@ Recall team members should send follow-up recall notices to customers, distribut
 - Recall notices and their required information will be shown in the table.
 
 - Recall notices should be sent from the ‘Notify’ option in the ‘Recall’ page.
+
+<DocsRating pageName="certificates"/>
 

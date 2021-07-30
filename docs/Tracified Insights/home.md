@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Home
+import DocsRating from '@site/src/core/DocsRating';
 
 - Tracified Insights Portal is the platform through which registered users can view traceability data, reviews and feedback and also to recall batches and items.
 
@@ -60,6 +61,8 @@ The map can be zoomed in and out to view the locations.
 ![MarineGEO circle logo](../../static/img/insights9.png "MarineGEO logo")
 
 The timeline section depicts all traceability data of each and every stage of the supply chain process. You can scroll down to view all stages and their data, in a well concise and a transparent manner. 
+
+<DocsRating pageName="certificates"/>
 
  
 

@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Intro
+import DocsRating from '@site/src/core/DocsRating';
 
 - Tracified Configs Portal can be accessed via the Tracified Admin.
 
@@ -17,3 +18,5 @@ Tracified configs will be where the configurations made by the users to augment 
 Lets add the option auto generate or manual creation.
 
 When creating the workflows manually, artifacts should be defined first.
+
+<DocsRating pageName="certificates"/>

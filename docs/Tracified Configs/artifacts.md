@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # Artifacts
+import DocsRating from '@site/src/core/DocsRating';
 
 Entities are referred to as Artifacts in Tracified. (ex: Farmer, Farm, Processing Center, Plot etc)
 
@@ -19,3 +20,5 @@ Once all the data is added and saved, the template will be successfully created 
 
 ![MarineGEO circle logo](../../static/img/config3.png "MarineGEO logo")
 
+
+<DocsRating pageName="certificates"/>

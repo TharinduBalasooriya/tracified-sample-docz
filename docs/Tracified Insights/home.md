@@ -14,7 +14,7 @@ The landing page for the Tracified Insights Portal is the home page. The recorde
 
 When clicked on the username at the top right corner of the screen, an expandable menu will be displayed. 
 
-![MarineGEO circle logo](../../static/img/insights1.png "MarineGEO logo")
+![MarineGEO circle logo](../../static/img/insights1.PNG "MarineGEO logo")
 
 
 When clicked on the ‘Profile’ option, profile details will be displayed as follows. 

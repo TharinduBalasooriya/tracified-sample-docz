@@ -40,7 +40,7 @@ module.exports = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/faq', label: 'FAQ', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/TharinduBalasooriya/tracified-sample-docz',
           label: 'GitHub',
           position: 'right',
         },
@@ -84,7 +84,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/TharinduBalasooriya/tracified-sample-docz',
             },
           ],
         },
@@ -109,13 +109,13 @@ module.exports = {
           showLastUpdateAuthor: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TharinduBalasooriya/docuSo/',
+            'https://github.com/TharinduBalasooriya/tracified-sample-docz',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/TharinduBalasooriya/docuSo/',
+            'https://github.com/TharinduBalasooriya/tracified-sample-docz',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

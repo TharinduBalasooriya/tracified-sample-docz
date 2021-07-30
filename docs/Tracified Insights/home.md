@@ -30,7 +30,7 @@ One a specific item is selected, it will be automatically redirected to the ‘S
 
 ## Selecting a batch
 
-![MarineGEO circle logo](../../static/img/insights4.png "MarineGEO logo")
+![MarineGEO circle logo](../../static/img/insights4.PNG "MarineGEO logo")
 
 Once the batch is selected, all the recorded traceability data by the field officers for each stage of the supply chain will be visible in the admin panel. 
 

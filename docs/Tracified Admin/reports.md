@@ -13,6 +13,4 @@ A preview of the generated report will be displayed at the bottom section of the
 
 ![MarineGEO circle logo](../../static/img/reports1.png "MarineGEO logo")
 
-
-
 <DocsRating pageName="reports"/>

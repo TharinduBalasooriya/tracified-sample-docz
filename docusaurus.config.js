@@ -39,7 +39,7 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+      
         {to: '/faq', label: 'FAQ', position: 'left'},
         {
           href: 'https://github.com/TharinduBalasooriya/tracified-sample-docz',

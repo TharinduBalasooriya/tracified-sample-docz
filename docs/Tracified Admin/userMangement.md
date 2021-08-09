@@ -6,6 +6,8 @@ sidebar_position: 3
 
 import DocsRating from '@site/src/core/DocsRating';
 
+[`Getting Started`](./SignUp) [`Authorization`](./authorization)
+
 ![MarineGEO circle logo](../../static/img/dash4.png "MarineGEO logo")
 
 All the user details related to the logged in user will be displayed through this.

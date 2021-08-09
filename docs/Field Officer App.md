@@ -19,6 +19,7 @@ Use the credentials used when creating the Tracified Accounts to log into the ap
 
 
 <p align="center">
+![MarineGEO circle logo](../../static/img/config2.png "MarineGEO logo")
 
 <img height = "350px"src="../static/img/fo1.jpg" /> <img height = "350px" src="../static/img/fo2.jpg" />
 

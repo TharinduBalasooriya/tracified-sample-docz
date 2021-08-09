@@ -6,6 +6,8 @@ sidebar_position: 2
 
 import DocsRating from '@site/src/core/DocsRating';
 
+[`Tracified-Items`](./tracifiedItems) [`Artifacts`](./artifactDetails) [`Ecom`](./Ecom) [`Lastmile-Token`](./LastmileToken)
+
 After a successful login, the main dashboard will be displayed. The login history and the activity log can be viewed using this interface. All the past logins from each account, the time and date as well as the record of activities done from each account will be displayed here
 
 ![MarineGEO circle logo](../../static/img/dash1.png "MarineGEO logo")

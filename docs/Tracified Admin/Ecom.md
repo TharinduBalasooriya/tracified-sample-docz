@@ -6,6 +6,11 @@ sidebar_position: 4
 
 import DocsRating from '@site/src/core/DocsRating';
 
+[`Tracified-Items`](./tracifiedItems)[`Shopify-Accounts`](./Accounts_and_Settings/shopifyAccounts) [`Lastmile-Token`](./LastmileToken)
+
+
+
+
 The shopify webshop and the Tracified account can be connected by providing the shop URL. The shop URL can be obtained from your shopify account and once it is correctly inserted and submitted, the plugin will be configured by generating a key and it will enable the POS traceability.
 
 ![MarineGEO circle logo](../../static/img/ecom.png "MarineGEO logo")

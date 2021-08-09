@@ -16,13 +16,7 @@ Tracified Consumer App can be used by consumers in order to view the traceabilit
 
 Once logged in successfully, it will be asked to scan the QR code on the product.
 
-export const VideoIframe = () => (
 
-  <div>
-      <iframe  src="../../static/img/con1.mp4">
-      </iframe>
-  </div>
-);
 
 <p align="center">
 

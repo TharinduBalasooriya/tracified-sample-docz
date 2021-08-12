@@ -13,7 +13,7 @@ sidebar_position: 2
 Four collapsible cards are published in order to retrieve and display information about the nature and safety of the product, sustainability practices followed and the communities which were involved in the process.
 
 <div>
-    <table style= "border:none;">
+    <table>
         <tr>
             <td width="30%"><img className ="img23" src="https://i.ibb.co/NmPdzzd/con3.png" align="center" /></td>
             <td>  The ‘Freshness’card includes information about the harvested date, picked date and about how freshness maintained throughout the supply chain process. </td>

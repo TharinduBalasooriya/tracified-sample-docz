@@ -21,7 +21,7 @@ Use the credentials used when creating the Tracified Accounts to log into the ap
 <p align="center">
 
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo1.jpg" /> <img height = "350px" src="https://i.ibb.co/dM7ptft/fo2.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo1.jpg" /> <img height = "350px" src="https://i.ibb.co/wsnBsQL/fo2.jpg" />
 
 </p>
 
@@ -30,7 +30,7 @@ Use the credentials used when creating the Tracified Accounts to log into the ap
 Enter a batch ID or scan the QR code, to proceed adding data to the system. You will be able to do four major functionalities; adding data, stage transferring, splitting batches and connecting batches
 
   <p align = "center">
-    <img height = "350px"src="https://i.ibb.co/dM7ptft/fo3.jpg" />
+    <img height = "350px"src="https://i.ibb.co/zsS6M6M/fo3.jpg" />
   </p>
 </div>
 
@@ -41,7 +41,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo4.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo5.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo6.jpg" />
+<img height = "350px"src="https://i.ibb.co/hRcn2G2/fo4.jpg" /> <img height = "350px"src="https://i.https://i.ibb.co/Bz0Z9X0/fo5.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo6.jpg" />
 
 </p>
 
@@ -67,7 +67,7 @@ Select the stage to which the product should be transferred and select the parti
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo8.jpg" />
+<img height = "350px"src="https://i.ibb.co/74WkNyg/fo8.jpg" />
 
 </p>
 
@@ -95,7 +95,7 @@ This will split the selected batch into two separate batches.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo11.jpg" />
+<img height = "350px"src="https://i.ibb.co/Vxmm4G4/fo11.jpg />
 
 </p>
 
@@ -114,7 +114,7 @@ Type or scan the ID and then a new ID will be generated. Then select the other p
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo14.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo15.jpg" />
+<img height = "350px"src="https://i.ibb.co/VNKkdms/fo14.jpg" /> <img height = "350px"src="https://i.ibb.co/927L4Fg/fo15.jpg" />
 </p>
 
 
@@ -124,7 +124,7 @@ This will display the details of the recent transactions which took place such a
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo16.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/1Qk5x8x/fo16.jpg" /> 
 </p>
 
 
@@ -132,7 +132,7 @@ This will display the details of the recent transactions which took place such a
 Locally stored data can be synced with the Tracified FO App, only if available.
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo34.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo35.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/bRY6PhQ/fo34.jpg" /> <img height = "350px"src="https://i.ibb.co/PZG8tHH/fo35.jpg" /> 
 </p>
 
 ## Settings
@@ -143,7 +143,7 @@ The transaction password can also be changed as per the requirement.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo17.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/8KStq9B/fo17.jpg" /> 
 </p>
 
 
@@ -153,7 +153,7 @@ This showcases the current version of the application and any updates if availab
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo18.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo30.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/1GRyy0w/fo18.jpg" /> <img height = "350px"src="https://i.ibb.co/NTbn521/fo19.jpg" /> 
 </p>
 
 ## Certifications
@@ -161,14 +161,14 @@ This showcases the current version of the application and any updates if availab
 Certifications can be issued here according to the requirement.
 
 <p align="center">
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo20.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo19.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/K7TWHqt/fo20.jpg" /> <img height = "350px"src="https://i.ibb.co/BsWWb2L/fo30.jpg" /> 
 </p>
 
 ## Special Operations
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo22.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo23.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/stLYTm0/fo21.jpg" /> <img height = "350px"src="https://i.ibb.co/gWPqdbZ/fo23.jpg" /> 
 </p>
 
 ## Update Master Data
@@ -176,7 +176,7 @@ Certifications can be issued here according to the requirement.
 Master data can be automatically updated once clicked on this option in the navigation menu. 
 
 <p align="center">
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo31.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo32.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/Jj9Y1fH/fo31.jpg" /> <img height = "350px"src="https://i.ibb.co/pP5mV6d/fo32.jpg" /> 
 </p>
 
 ## Logout

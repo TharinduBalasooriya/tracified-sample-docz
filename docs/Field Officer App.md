@@ -19,9 +19,9 @@ Use the credentials used when creating the Tracified Accounts to log into the ap
 
 
 <p align="center">
-![MarineGEO circle logo](../../static/img/config2.png "MarineGEO logo")
 
-<img height = "350px"src="../static/img/fo1.jpg" /> <img height = "350px" src="../static/img/fo2.jpg" />
+
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo1.jpg" /> <img height = "350px" src="https://i.ibb.co/dM7ptft/fo2.jpg" />
 
 </p>
 
@@ -30,7 +30,7 @@ Use the credentials used when creating the Tracified Accounts to log into the ap
 Enter a batch ID or scan the QR code, to proceed adding data to the system. You will be able to do four major functionalities; adding data, stage transferring, splitting batches and connecting batches
 
   <p align = "center">
-    <img height = "350px"src="../static/img/fo3.jpg" />
+    <img height = "350px"src="https://i.ibb.co/dM7ptft/fo3.jpg" />
   </p>
 </div>
 
@@ -41,7 +41,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo4.jpg" /> <img height = "350px"src="../static/img/fo5.jpg" /> <img height = "350px"src="../static/img/fo6.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo4.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo5.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo6.jpg" />
 
 </p>
 
@@ -56,7 +56,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo7.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo7.jpg" />
 
 </p>
 
@@ -67,7 +67,7 @@ Select the stage to which the product should be transferred and select the parti
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo8.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo8.jpg" />
 
 </p>
 
@@ -80,14 +80,14 @@ Click on the **‘Split’** option to split a particular batch into two separat
 
 <p align="center">
 
-<img src="../static/img/fo9.jpg" />
+<img src="https://i.ibb.co/dM7ptft/fo9.jpg" />
 
 </p>
 
 Type the ID or scan the QR code and then select the product and tap on the ‘Release Parent ID’ radio button (if needed) and tap on **‘Split**’ button.
 <p align="center">
 
-<img height = "350px"src="../static/img/fo10.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo10.jpg" />
 
 </p>
 
@@ -95,7 +95,7 @@ This will split the selected batch into two separate batches.
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo11.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo11.jpg" />
 
 </p>
 
@@ -106,7 +106,7 @@ This connect option allows you to merge two batches together. Click on the **‘
 
 <p align="center">
 
-<img src="../static/img/fo13.jpg" />
+<img src="https://i.ibb.co/dM7ptft/fo13.jpg" />
 
 </p>
 
@@ -114,7 +114,7 @@ Type or scan the ID and then a new ID will be generated. Then select the other p
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo14.jpg" /> <img height = "350px"src="../static/img/fo15.jpg" />
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo14.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo15.jpg" />
 </p>
 
 
@@ -124,7 +124,7 @@ This will display the details of the recent transactions which took place such a
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo16.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo16.jpg" /> 
 </p>
 
 
@@ -132,7 +132,7 @@ This will display the details of the recent transactions which took place such a
 Locally stored data can be synced with the Tracified FO App, only if available.
 <p align="center">
 
-<img height = "350px"src="../static/img/fo34.jpg" /> <img height = "350px"src="../static/img/fo35.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo34.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo35.jpg" /> 
 </p>
 
 ## Settings
@@ -143,7 +143,7 @@ The transaction password can also be changed as per the requirement.
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo17.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo17.jpg" /> 
 </p>
 
 
@@ -153,7 +153,7 @@ This showcases the current version of the application and any updates if availab
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo18.jpg" /> <img height = "350px"src="../static/img/fo30.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo18.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo30.jpg" /> 
 </p>
 
 ## Certifications
@@ -161,14 +161,14 @@ This showcases the current version of the application and any updates if availab
 Certifications can be issued here according to the requirement.
 
 <p align="center">
-<img height = "350px"src="../static/img/fo20.jpg" /> <img height = "350px"src="../static/img/fo19.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo20.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo19.jpg" /> 
 </p>
 
 ## Special Operations
 
 <p align="center">
 
-<img height = "350px"src="../static/img/fo22.jpg" /> <img height = "350px"src="../static/img/fo23.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo22.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo23.jpg" /> 
 </p>
 
 ## Update Master Data
@@ -176,7 +176,7 @@ Certifications can be issued here according to the requirement.
 Master data can be automatically updated once clicked on this option in the navigation menu. 
 
 <p align="center">
-<img height = "350px"src="../static/img/fo31.jpg" /> <img height = "350px"src="../static/img/fo32.jpg" /> 
+<img height = "350px"src="https://i.ibb.co/dM7ptft/fo31.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo32.jpg" /> 
 </p>
 
 ## Logout
@@ -188,7 +188,7 @@ By tapping on the **‘Logout**’ option, you can conclude the use of FO app an
 Tracified supports various languages including English, Sinhala, Tamil and many more. The preferred language can be chosen from the options given.
 
 <p align="center">
-<img src="../static/img/fo33.jpg" /> 
+<img src="https://i.ibb.co/dM7ptft/fo33.jpg" /> 
 </p>
 
 

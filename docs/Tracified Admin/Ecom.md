@@ -6,7 +6,7 @@ sidebar_position: 4
 
 import DocsRating from '@site/src/core/DocsRating';
 
-[`Tracified-Items`](./tracifiedItems)[`Shopify-Accounts`](./Accounts_and_Settings/shopifyAccounts) [`Lastmile-Token`](./LastmileToken)
+[`Tracified-Items`](./tracifiedItems) [`Lastmile-Token`](./LastmileToken)
 
 
 

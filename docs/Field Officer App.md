@@ -41,7 +41,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/hRcn2G2/fo4.jpg" /> <img height = "350px"src="https://i.https://i.ibb.co/Bz0Z9X0/fo5.jpg" /> <img height = "350px"src="https://i.ibb.co/dM7ptft/fo6.jpg" />
+<img height = "350px"src="https://i.ibb.co/hRcn2G2/fo4.jpg" /> <img height = "350px"src="https://i.ibb.co/Bz0Z9X0/fo5.jpg" /> <img height = "350px"src="https://i.ibb.co/LdJLyTL/fo6.jpg" />
 
 </p>
 
@@ -56,7 +56,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo7.jpg" />
+<img height = "350px"src="https://i.ibb.co/1nkbn3X/fo7.jpg" />
 
 </p>
 
@@ -80,14 +80,14 @@ Click on the **‘Split’** option to split a particular batch into two separat
 
 <p align="center">
 
-<img src="https://i.ibb.co/dM7ptft/fo9.jpg" />
+<img src="https://i.ibb.co/HGrnVrJ/fo9.jpg" />
 
 </p>
 
 Type the ID or scan the QR code and then select the product and tap on the ‘Release Parent ID’ radio button (if needed) and tap on **‘Split**’ button.
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/dM7ptft/fo10.jpg" />
+<img height = "350px"src="https://i.ibb.co/4Rj8F0J/fo10.jpg" />
 
 </p>
 
@@ -95,7 +95,7 @@ This will split the selected batch into two separate batches.
 
 <p align="center">
 
-<img height = "350px"src="https://i.ibb.co/Vxmm4G4/fo11.jpg />
+<img height = "350px"src="https://i.ibb.co/Vxmm4G4/fo11.jpg" />
 
 </p>
 
@@ -106,7 +106,7 @@ This connect option allows you to merge two batches together. Click on the **‘
 
 <p align="center">
 
-<img src="https://i.ibb.co/dM7ptft/fo13.jpg" />
+<img src="https://i.ibb.co/HGrnVrJ/fo9.jpg" />
 
 </p>
 
@@ -188,7 +188,7 @@ By tapping on the **‘Logout**’ option, you can conclude the use of FO app an
 Tracified supports various languages including English, Sinhala, Tamil and many more. The preferred language can be chosen from the options given.
 
 <p align="center">
-<img src="https://i.ibb.co/dM7ptft/fo33.jpg" /> 
+<img src="https://i.ibb.co/47C8vQq/fo33.jpg" /> 
 </p>
 
 

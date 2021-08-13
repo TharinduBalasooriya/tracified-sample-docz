@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Dashborad
+# Dashboard
 
 import DocsRating from '@site/src/core/DocsRating';
 

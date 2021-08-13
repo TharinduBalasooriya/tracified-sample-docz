@@ -3,6 +3,8 @@ sidebar_position: 3
 ---
 # Map
 
+[`Field Officer App -Add data`](../FOapp/AddData)
+
 <p align="center">
 
 <img height = "350px"src="https://i.ibb.co/ysjXZVJ/con7.jpg" />

@@ -17,8 +17,11 @@ Tracified Consumer App can be used by consumers in order to view the traceabilit
 Once logged in successfully, it will be asked to scan the QR code on the product.
 
 <p align="center">
-
-
+<video width="400" controls >
+  <source src="../../../videos/consumer_intro.mp4" type="video/mp4"/>
+  
+  Your browser does not support HTML video.
+</video>
 
 </p>
 

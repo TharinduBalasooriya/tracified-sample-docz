@@ -7,14 +7,9 @@ sidebar_position: 4
 
 The Series of stages through which the product went through during its lifecycle, along with the required information per stage will be displayed here.
 
-<!-- <p align="center">
-
-<img height = "350px"src="../static/img/con8.jpg" />
-
-</p> -->
 <p align="center">
 <video width="400" controls >
-  <source src="../../../static/videos/time_line.mp4" type="video/mp4"/>
+  <source src="../../../videos/time_line.mp4" type="video/mp4"/>
   
   Your browser does not support HTML video.
 </video>

@@ -5,6 +5,9 @@ sidebar_position: 3
 # Recall Management
 import DocsRating from '@site/src/core/DocsRating';
 
+[`User Management`](../TracifiedAdmin/userMangement)
+
+
 **? What are prerequisites for recall functionality?**
 	When defining the ‘workflow’ there should be a final stage named ‘Recall Stage’ 
 	

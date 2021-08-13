@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Split
+# Split / Merge
 
 import DocsRating from '@site/src/core/DocsRating';
 

@@ -19,6 +19,8 @@ Certifications can be issued  through the Tracified Officer App, by selecting a 
 You can also upload photos as proof of quality, and then have to select the template which was defined through the configs portal. Once the certificate is issued, its information will be displayed at the **‘Safety Card’** of the consumer app.
 
 
-**Learn more :**
+**Learn more :[ Certificates-Tracified Admin](../TracifiedAdmin/certificates)**
+
+
 
 <DocsRating pageName="FO settings"/>

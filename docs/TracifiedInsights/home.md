@@ -6,6 +6,10 @@ sidebar_position: 1
 
 import DocsRating from '@site/src/core/DocsRating';
 
+[`Tracified Admin- TracifiedItems`](../TracifiedAdmin/tracifiedItems) [`Tracified Admin- Getting Started`](../TracifiedAdmin/SignUP) [`Recall Management`](../TracifiedInsights/RecallMan)
+
+
+
 - Tracified Insights Portal is the platform where the registered users can observe traceability data, product reviews and consumer feedback and also to recall certain batches and items.
 
 ![MarineGEO circle logo](../../static/img/insights.png "MarineGEO logo")

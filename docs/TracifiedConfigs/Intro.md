@@ -2,9 +2,13 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Configure Tracified
 
 import DocsRating from '@site/src/core/DocsRating';
+
+[`Tracified Admin- TracifiedItems`](../TracifiedAdmin/tracifiedItems) [`Tracified Admin- Getting Started`](../TracifiedAdmin/SignUP)
+
+
 
 - Tracified Configs Portal can be accessed via the Tracified Admin.
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 import DocsRating from '@site/src/core/DocsRating';
 
-
+[`Tracified Admin- User Management`](../TracifiedAdmin/userMangement) 
 
 Tracified Field Officer App can be downloaded from the Google play store or Apple app store through the following links.
 

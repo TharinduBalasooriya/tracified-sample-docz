@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Home
 
+[`Tracified Configs- Settings`](../TracifiedConfigs/settings) 
+
 import DocsRating from '@site/src/core/DocsRating';
 
 <div>

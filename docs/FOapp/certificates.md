@@ -4,6 +4,8 @@ sidebar_position: 10
 
 #  Certifications
 
+[`Tracified Admin- Authorization`](../TracifiedAdmin/authorization) [`Certifications`](../TracifiedAdmin/certificates)
+
 import DocsRating from '@site/src/core/DocsRating';
 
 

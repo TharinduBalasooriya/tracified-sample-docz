@@ -42,7 +42,7 @@ module.exports = {
       
         {to: '/faq', label: 'FAQ', position: 'left'},
         {
-          href: 'https://github.com/TharinduBalasooriya/tracified-sample-docz',
+          href: '#',
           label: 'GitHub',
           position: 'right',
         },
@@ -65,15 +65,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: '#',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: '#',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: '#',
             },
           ],
         },
@@ -83,7 +83,7 @@ module.exports = {
          
             {
               label: 'GitHub',
-              href: 'https://github.com/TharinduBalasooriya/tracified-sample-docz',
+              href: '#',
             },
           ],
         },

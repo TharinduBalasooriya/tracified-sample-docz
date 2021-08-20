@@ -39,19 +39,31 @@ If the list is selected, you can enter list items as you need, or even remove th
 
 If you choose the ‘single’ option, it will let the field officer users enter the data type you configure here.
 
+<br />
+
 ** Yes or No** - this option will enable the field officer users to check or uncheck the field.
 Cascade option will allow you to
 
-![MarineGEO circle logo](../../static/img/config11.png "MarineGEO logo") **Photo ** - this will enable the field officers to upload geo coded images.
+![MarineGEO circle logo](../../static/img/config11.png "MarineGEO logo")
+<br />
 
-![MarineGEO circle logo](../../static/img/config13.png "MarineGEO logo") ** Date and Time** - this option will enable field officers to pick the date and time.
+**Photo ** - this will enable the field officers to upload geo coded images.
 
-![MarineGEO circle logo](../../static/img/config14.png "MarineGEO logo") **Number ** - this option will enable the field officers to enter numerical values.
+![MarineGEO circle logo](../../static/img/config13.png "MarineGEO logo") 
+<br />
+
+** Date and Time** - this option will enable field officers to pick the date and time.
+
+![MarineGEO circle logo](../../static/img/config14.png "MarineGEO logo")
+<br />
+
+ **Number ** - this option will enable the field officers to enter numerical values.
 
 ![MarineGEO circle logo](../../static/img/config15.png "MarineGEO logo")![MarineGEO circle logo](../../static/img/config15.png "MarineGEO logo")
 
 If you toggle the prefix and postfix, you can enter some text that should be available before or after the numerical value.
 (ex: it can be a measurement unit or a value that is common to all)
+<br />
 
 ** Text** - this option will enable the field officers to enter text
 

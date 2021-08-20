@@ -9,6 +9,7 @@ import DocsRating from '@site/src/core/DocsRating';
 
 [`Field Officer App -Home`](../FOapp/home) [`Field Officer App -Certifications`](../FOapp/certificates) [`Field Officer App -Special Operations`](../FOapp/Field%20Officer%20App#special-operations)
 
+
 ![MarineGEO circle logo](../../static/img/config18.png "MarineGEO logo")
 
 General settings and Batch Input Settings can be managed and you will be able to see the existing settings here. You are allowed to modify the settings as per the requirement and once modified click on the ‘Update Settings’ button to save data successfully.

@@ -1,11 +1,13 @@
 pipeline {
-  agent { label 'linux-slave' }
-  parameters { 
-        choice(name: 'NODE_VERSION', choices: ['NodeJS 13.11.0'], description: '') 
+  agent any
+    parameters { 
+        choice(name: 'NODE_VERSION', choices: ['NodeJS 13.11.0', 'NodeJS 7.7.0'], description: '') 
     }
-  tools {
+
+    tools {
         nodejs params.NODE_VERSION
     }
+  
   stages {
     stage('Build') {
       steps {

@@ -58,7 +58,6 @@ Once you fill in all fields click on the **‘Transfer’** button. Then you wil
 </p>
 
 
-<DocsRating pageName="WalletApp-SentItems"/>
 
 
 ## Sent Items

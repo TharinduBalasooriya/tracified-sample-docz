@@ -68,7 +68,7 @@ Once it is done, you can submit the changes.
 </p>
 
 
-<p color = "green">If the password change is successful, you will be automatically logged out from the account and you can log back in with the new password. You will have to remember the new password or can save it somewhere else for future use. </p>
+:green_circle: **If the password change is successful, you will be automatically logged out from the account and you can log back in with the new password. You will have to remember the new password or can save it somewhere else for future use. **
 
 
 

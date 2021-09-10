@@ -14,6 +14,7 @@ import DocsRating from '@site/src/core/DocsRating';
 When defining the ‘workflow’ there should be a final stage named ‘Recall Stage’ 	
 
 :::
+
 :::note How to recall?
 
 Recall Management comprises four main functionalities. 

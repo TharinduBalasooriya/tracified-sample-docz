@@ -6,6 +6,19 @@ sidebar_position: 4
 
 import DocsRating from '@site/src/core/DocsRating';
 
+:::note What is Change of Custody (CoC) and how can I initiate it?
+
+Ability to send items to another account. You will be able to scan the code or enter the identifier and perform a ‘Transfer’ to the receiver’s account name by selecting any item available.
+
+
+:::
+
+:::note How can I view my Change of Custody requests?
+
+You will be able to view the lists of the current CoC requests so that a detailed view will be available to them to view their past transactions.
+
+:::
+
 ## Send Items (Transfer)
 
 
@@ -56,8 +69,6 @@ Once you fill in all fields click on the **‘Transfer’** button. Then you wil
 <p align="center">
 <img height = "200px" width = "50%"src="https://i.ibb.co/jr39trY/wall12.png" /> 
 </p>
-
-
 
 
 ## Sent Items

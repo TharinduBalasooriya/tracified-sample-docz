@@ -41,8 +41,7 @@ If you choose the ‘single’ option, it will let the field officer users enter
 
 <br />
 
-** Yes or No** - this option will enable the field officer users to check or uncheck the field.
-Cascade option will allow you to
+
 
 ![MarineGEO circle logo](../../static/img/config11.png "MarineGEO logo")
 <br />

@@ -71,9 +71,6 @@ Once you fill in all fields click on the **‘Transfer’** button. Then you wil
 </p>
 
 
-
-
-
 ## Sent Items
 
 

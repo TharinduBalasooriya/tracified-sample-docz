@@ -33,7 +33,7 @@ Then you can either upload a picture from your gallery or you can take one using
 
 <p align="center">
 
-<img height = "300px"src="https://i.ibb.co/vmZn9GK/wall20.jpg" /> 
+<img hwidth = "50%" height = "50%"src="https://i.ibb.co/vmZn9GK/wall20.jpg" /> 
 </p>
 
 
@@ -41,7 +41,7 @@ Once completed, you will see the updated image and you can choose to save or can
 
 <p align="center">
 
-<img height = "300px" width = "50%"src="https://i.ibb.co/68F77XH/wall20-1.jpg" /> 
+<img width = "45%" height = "50%"src="https://i.ibb.co/68F77XH/wall20-1.jpg" /> 
 </p>
 
 
@@ -57,7 +57,7 @@ Then you can type in the new name and submit changes.
 
 <p align="center">
 
-<img height = "300px"src="https://i.ibb.co/r7WBrC6/wall21.jpg" /> 
+<img width = "45%" height = "50%" src="https://i.ibb.co/r7WBrC6/wall21.jpg" /> 
 </p>
 
 
@@ -115,7 +115,7 @@ Once it is done, you can submit the changes.
 
 <p align="center">
 
-<img height = "300px"src="https://i.ibb.co/Btcj95M/wall22.jpg" /> 
+<img height = "300px"src="https://i.ibb.co/2v5PMwJ/wall23.jpg" /> 
 </p>
 
 

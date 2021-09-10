@@ -8,12 +8,19 @@ import DocsRating from '@site/src/core/DocsRating';
 [`User Management`](../TracifiedAdmin/userMangement)
 
 
-**? What are prerequisites for recall functionality?**
-	When defining the ‘workflow’ there should be a final stage named ‘Recall Stage’ 
-	
 
-**? How to recall?**
-    Recall Management comprises four main functionalities. 
+:::note What are prerequisites for recall functionality?
+
+When defining the ‘workflow’ there should be a final stage named ‘Recall Stage’ 	
+
+:::
+:::note How to recall?
+
+Recall Management comprises four main functionalities. 
+
+:::
+
+
 
 ## Recalls
 

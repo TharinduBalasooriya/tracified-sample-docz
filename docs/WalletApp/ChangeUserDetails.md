@@ -6,6 +6,16 @@ sidebar_position: 5
 
 import DocsRating from '@site/src/core/DocsRating';
 
+
+
+:::note How are users managed?
+
+Multiple accounts can be managed through the Wallet App and you can choose the default account and retrieve the change of custody details of that account. Also, you are able to check the account funds for each of your accounts which will be displayed in Lumens.
+
+
+:::
+
+
 To change user details go to the Settings page using the side menu.
 
 
@@ -67,8 +77,13 @@ Once it is done, you can submit the changes.
 <img height = "300px" width = ""src="https://i.ibb.co/Btcj95M/wall22.jpg" /> 
 </p>
 
+:::note 
 
-**If the password change is successful, you will be automatically logged out from the account and you can log back in with the new password. You will have to remember the new password or can save it somewhere else for future use.**
+If the password change is successful, you will be automatically logged out from the account and you can log back in with the new password. You will have to remember the new password or can save it somewhere else for future use.
+
+
+:::
+
 
 
 
@@ -104,10 +119,11 @@ Once it is done, you can submit the changes.
 </p>
 
 
+
 You can use the new password from the next transaction onwards. You will have to remember the new password or can save it somewhere else for future use.
 
+:::note 	What if I enter a wrong Transaction Password?
 
-:question:	What if I enter a wrong Transaction Password?
 
 If you enter an incorrect password, you will be given the option to change your password by pressing the **“Forgot Password”** button.
 
@@ -140,6 +156,11 @@ If the password change is successful, you will be able to use the new password i
 
 <img height = "50%" width = "45%"src="https://i.ibb.co/phBTL3J/wall27.jpg" /> 
 </p>
+
+
+:::
+
+
 
 
 <DocsRating pageName="WalletApp-Change-user-details"/>

@@ -6,7 +6,11 @@ sidebar_position: 3
 import DocsRating from '@site/src/core/DocsRating';
 
 
+:::note What are Blockchain Accounts?
 
+A mandatory requirement is for the wallet users to create their own Blockchain accounts. From here you can create multiple Blockchain accounts and a private and public key is generated for them for each account from which they could do their transactions.
+
+:::
 
 Since Wallet is directly connected with Blockchain, it is mandatory to create a Blockchain account for each Wallet user.
 

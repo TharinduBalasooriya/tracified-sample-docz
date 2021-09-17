@@ -11,7 +11,9 @@ import DocsRating from '@site/src/core/DocsRating';
 [`User settings`](../WalletApp/ChangeUserDetails)
 
 
+:::note 
 [Tracified Wallet Application Release](https://tracified.com/2019/08/16/tracified-wallet-application-v-1-0-release/)
+:::
 
 Tracified Wallet app is a mobile application used specifically for Blockchain related asset transactions. Using this app, users can store and access all their assets in one place. A user can sign in, create a Blockchain account, perform a [change of custody](../WalletApp/ChangeOfCustody) and accept or reject [change of custody](../WalletApp/ChangeOfCustody) requests. User settings and application permissions can also be configured through this application.
 

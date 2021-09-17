@@ -11,7 +11,7 @@ import DocsRating from '@site/src/core/DocsRating';
 [`User settings`](../WalletApp/ChangeUserDetails)
 
 
-:::note 
+:::
 [Tracified Wallet Application Release](https://tracified.com/2019/08/16/tracified-wallet-application-v-1-0-release/)
 :::
 

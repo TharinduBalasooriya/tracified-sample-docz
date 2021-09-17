@@ -53,7 +53,6 @@ The traceability information which you can see in Tracified Insights Portal with
 Multiple TDPs which are combined together can be identified as Overall Traceability Profiles
 
 
-### Hello World
 
 
 export const VideoIframe = () => (

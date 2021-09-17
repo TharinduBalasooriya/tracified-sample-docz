@@ -25,9 +25,9 @@ Enter an appropriate field name and press Enter.
 
 ![MarineGEO circle logo](../../static/img/config7.png "MarineGEO logo")
 
-You can select the nature of the data as [artifacts](../docs/intro#artifacts--master-data), list or single.
+You can select the nature of the data as [artifacts](../intro#artifacts--master-data), list or single.
 
-If you want to have your users add data using [artifacts](../docs/intro#artifacts--master-data), you can choose the artifact function.
+If you want to have your users add data using [artifacts](../intro#artifacts--master-data), you can choose the artifact function.
 
 ![MarineGEO circle logo](../../static/img/config8.png "MarineGEO logo") ![MarineGEO circle logo](../../static/img/config9.png "MarineGEO logo")
 

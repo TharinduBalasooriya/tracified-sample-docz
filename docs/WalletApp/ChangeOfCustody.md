@@ -12,7 +12,7 @@ Ability to send items to another account. You will be able to scan the code or e
 
 <p align="center">
 
-<img height = "350px"src="../../static/img/coc.png" /> 
+<img height = "350px"src="https://i.ibb.co/Jd7PPq6/CoC.png" /> 
 </p>
 
 

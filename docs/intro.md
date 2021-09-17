@@ -54,6 +54,7 @@ Multiple TDPs which are combined together can be identified as Overall Traceabil
 
 #### Change of Custody (CoC)
 Moving a item from one organization to another organization within the a particular supply chain 
+
 Consignor - the party who creates the CoC request
 Consignee - the party who receives the CoC request made
 

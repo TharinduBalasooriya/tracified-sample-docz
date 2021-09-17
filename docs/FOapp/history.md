@@ -7,7 +7,7 @@ sidebar_position: 7
 import DocsRating from '@site/src/core/DocsRating';
 
 
-This will display the details of the recent transactions which took place such as the item name, current stage, added date and related identifiers.
+This will display the details of the recent transactions which took place such as the item name, current [stage](../intro#stage), added date and related identifiers.
 
 <p align="center">
 

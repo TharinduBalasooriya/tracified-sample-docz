@@ -7,7 +7,7 @@ sidebar_position: 4
 
 [`Field Officer App -Add data`](../FOapp/AddData)
 
-The Series of stages through which the product went through during its lifecycle, along with the required information per stage will be displayed here.
+The Series of [stages](../intro#stage) through which the product went through during its lifecycle, along with the required information per [stage](../intro#stage) will be displayed here.
 
 <p align="center">
 <video width="400" controls >

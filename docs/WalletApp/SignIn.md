@@ -6,6 +6,8 @@ sidebar_position: 2
 
 import DocsRating from '@site/src/core/DocsRating';
 
+[`create Blockchain account`](../WalletApp/CreateBlockchain)
+
 Enter the email associated with the account as the username.
 
 Provide the account password and press on the **‘Login’** button.

@@ -12,7 +12,7 @@ Tap on the **‘Add’** option to add traceability data to the system.
 
 </p>
 
-- Once all the data related to the particular stage is filled and an image related to each stage is uploaded, click on the submit button to save the added data.
+- Once all the data related to the particular [stage](../intro#stage) is filled and an image related to each [stage](../intro#stage) is uploaded, click on the submit button to save the added data.
 
 - You will be asked to confirm adding data or to cancel in order to terminate the
   action.

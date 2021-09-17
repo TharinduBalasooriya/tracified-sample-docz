@@ -33,18 +33,27 @@ Tracified Mobile Applications - Tracified Field Officer Application, Tracified C
 ### Terms used within Tracified
 
 
-**Workflow** - the series of stages included in a given supply chain
+
+#### Workflow
+The series of stages included in a given supply chain
  
-**Stage**-  specific point or a period identified in a supply chain 
+####  Stage  
+Specific point or a period identified in a supply chain 
 
-**Artifacts / Master data** - Static data which will be fed into the system. These data will not change throughout the entire supply chain.
+####  Artifacts / Master data
+ Static data which will be fed into the system. These data will not change throughout the entire supply chain.
 
-**Stage Data / Tracking Data** - Live data which will be collected for each stage of the supply  chain with use of iOT devices or through manual inputs. These data will be collected through one of our mobile applications; the Tracified Field Officer Application
+#### Stage Data / Tracking Data 
+Live data which will be collected for each stage of the supply  chain with use of iOT devices or through manual inputs. These data will be collected through one of our mobile applications; the Tracified Field Officer Application
 
-**TDP - Traceability Data Packets** - The traceability information which you can see in Tracified Insights Portal with related to one stage can be identified as a Traceability Product Line
+####  TDP - Traceability Data Packets
+The traceability information which you can see in Tracified Insights Portal with related to one stage can be identified as a Traceability Product Line
 
-**OTP - Overall Traceability Profiles** - Multiple TDPs which are combined together can be identified as Overall Traceability Profiles
+####  OTP - Overall Traceability Profiles
+Multiple TDPs which are combined together can be identified as Overall Traceability Profiles
 
+
+### Hello World
 
 
 export const VideoIframe = () => (

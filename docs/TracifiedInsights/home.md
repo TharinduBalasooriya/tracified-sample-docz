@@ -16,10 +16,7 @@ import DocsRating from '@site/src/core/DocsRating';
 ## Navigation Pane
 
 The navigation pane on the left side of the screen contains all the functionalities that could be performed through the ‘Tracified Insights Portal’.
-	Home
-	Reviews
-	Recall Management
-	Back to admin 
+
 
 ## Home
 The landing page for the Tracified Insights Portal is the home page. The recorded Tracified Items will be displayed along with their appropriate stages. 
@@ -38,9 +35,11 @@ When clicked on this option, it will navigate the user back to the admin portal 
 
 When clicked on the username at the top right corner of the screen, an expandable menu will be displayed.
 
+
 ![MarineGEO circle logo](../../static/img/insights1.PNG "MarineGEO logo")
 
 When clicked on the ‘Profile’ option, profile details will be displayed as follows.
+
 ![MarineGEO circle logo](../../static/img/insights2.png "MarineGEO logo")
 
 

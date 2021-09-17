@@ -10,7 +10,7 @@ import DocsRating from '@site/src/core/DocsRating';
 
 :::note How are users managed?
 
-Multiple accounts can be managed through the Wallet App and you can choose the default account and retrieve the change of custody details of that account. Also, you are able to check the account funds for each of your accounts which will be displayed in Lumens.
+Multiple accounts can be managed through the Wallet App and you can choose the default account and retrieve the [change of custody](../WalletApp/ChangeOfCustody) details of that account. Also, you are able to check the account funds for each of your accounts which will be displayed in Lumens.
 
 
 :::

@@ -10,6 +10,11 @@ import DocsRating from '@site/src/core/DocsRating';
 
 Ability to send items to another account. You will be able to scan the code or enter the identifier and perform a ‘Transfer’ to the receiver’s account name by selecting any item available.
 
+<p align="center">
+
+<img height = "350px"src="../../static/img/coc.png" /> 
+</p>
+
 
 :::
 

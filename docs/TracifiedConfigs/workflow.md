@@ -2,20 +2,22 @@
 sidebar_position: 3
 ---
 
+
 # Workflow
+
 
 import DocsRating from '@site/src/core/DocsRating';
 
-Workflow creation can be done for all stages of the supply chain through Tracified Configs Portal.
+[Workflow](../intro#workflow) creation can be done for all [stages](../intro#stage) of the supply chain through Tracified Configs Portal.
 
-You can add new stages to the process, as per your requirement, through the **'+ Stage ' **button.
+You can add new [stages](../intro#stage) to the process, as per your requirement, through the **'+ Stage ' **button.
 ![MarineGEO circle logo](../../static/img/config4.png "MarineGEO logo")
 
-Add a stage name press ** Enter**
+Add a [stage](../intro#stage) name press ** Enter**
 
 ![MarineGEO circle logo](../../static/img/config5.png "MarineGEO logo")
 
-Select the newly created stage and you can add relevant fields to a particular stage through the ** '+ Field'** button.
+Select the newly created [stages](../intro#stage) and you can add relevant fields to a particular [stages](../intro#stage) through the ** '+ Field'** button.
 
 ![MarineGEO circle logo](../../static/img/config6.png "MarineGEO logo")
 
@@ -23,9 +25,9 @@ Enter an appropriate field name and press Enter.
 
 ![MarineGEO circle logo](../../static/img/config7.png "MarineGEO logo")
 
-You can select the nature of the data as artifacts, list or single.
+You can select the nature of the data as [artifacts](../docs/intro#artifacts--master-data), list or single.
 
-If you want to have your users add data using artifacts, you can choose the artifact function.
+If you want to have your users add data using [artifacts](../docs/intro#artifacts--master-data), you can choose the artifact function.
 
 ![MarineGEO circle logo](../../static/img/config8.png "MarineGEO logo") ![MarineGEO circle logo](../../static/img/config9.png "MarineGEO logo")
 
@@ -71,7 +73,7 @@ If you toggle the prefix and postfix, you can enter some text that should be ava
 
 Here also you can enable the prefix and postfix option.
 
-Once all these are correctly added, click on the ‘Publish’ button to get them added to the workflow. (This may sometimes take a while as the whole workflow process should be created within the system automatically)
+Once all these are correctly added, click on the **‘Publish’** button to get them added to the [Workflow](../intro#workflow). (This may sometimes take a while as the whole [Workflow](../intro#workflow) process should be created within the system automatically)
 
 One or more fields can be merged together to make a group. Click on the ‘Next: Group’ button to create a new group for the added fields.
 

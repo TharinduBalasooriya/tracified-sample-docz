@@ -6,11 +6,10 @@ sidebar_position: 3
 
 ## Subscribing to Tracified
 
-**?  What are the prerequisites to subscribe to Tracified?**
+:::note   What are the prerequisites to subscribe to Tracified? :::
 
 -  You should own a Shopify webshop
-
-**? Should have products?**
+:::note Should have products? :::
 
 - The first and foremost step in getting started with Tracified is installing the Tracified plugin through the Shopify App Store. 
 You will have to visit the Shopify App Store, search for Tracified, select the app, and then click on the ‘install’ button. 

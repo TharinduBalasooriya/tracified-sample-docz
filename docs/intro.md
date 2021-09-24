@@ -65,7 +65,20 @@ Consignee - the party who receives the CoC request made
 
 #### Traceability Data
 
-the process of mapping and showing the entire journey of the product manufactured from raw materials to finished goods.
+The process of mapping and showing the entire journey of the product manufactured from raw materials to finished goods.
+
+
+#### Consumer-map
+
+The map shown to the end consumer, which contains all the specific locations through which the product went through during different stages of the supply chain.
+
+#### Consumer-map-Geo-locations
+
+The locations identified through GPS or IP addresses, to track the product journey
+
+#### Consumer-map-Geo-locations
+
+A photo which is associated with a specific location and is linked with a geotag. These images can be uploaded from the Tracified Field Office
 
 
 export const VideoIframe = () => (

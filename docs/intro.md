@@ -76,7 +76,7 @@ The map shown to the end consumer, which contains all the specific locations thr
 
 The locations identified through GPS or IP addresses, to track the product journey
 
-#### Consumer-map-Geo-locations
+#### Geotagged photos
 
 A photo which is associated with a specific location and is linked with a geotag. These images can be uploaded from the Tracified Field Office
 

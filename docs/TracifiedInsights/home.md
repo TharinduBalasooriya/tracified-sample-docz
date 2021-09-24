@@ -67,6 +67,9 @@ Once the batch is selected, all the recorded traceability data by the field offi
 
 ## Viewing Traceability Data
 
+[`Tracebility data`](../intro#traceability-data)
+
+
 ![MarineGEO circle logo](../../static/img/insights5.png "MarineGEO logo")
 
 This is a preview of the consumer view.

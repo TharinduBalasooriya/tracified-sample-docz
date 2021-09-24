@@ -11,7 +11,7 @@ sidebar_position: 3
 
 </p>
 
-A zoomable map is displayed which will extract the geo-locations of the images that have been uploaded for each [stage](../intro#stage) of the supply chain.
+A zoomable map is displayed which will extract the [geo-locations](../intro/#geo-locations) of the images that have been uploaded for each [stage](../intro#stage) of the supply chain.
 
 
-If there are any geotagged photos of a certain product of a product supply chain, those locations will be displayed
+If there are any [geotagged photos](../intro/#geotagged-photos) of a certain product of a product supply chain, those locations will be displayed

@@ -56,7 +56,7 @@ One a specific item is selected, it will be automatically redirected to the ‘S
 
 ## Selecting a batch
 
-[`Certification`](../intro/#batch-id)
+[`Batch`](../intro/#batch-id)
 
 ![MarineGEO circle logo](../../static/img/insights4.PNG "MarineGEO logo")
 

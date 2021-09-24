@@ -49,7 +49,7 @@ When clicked on the ‘Profile’ option, profile details will be displayed as f
 
 ![MarineGEO circle logo](../../static/img/insights3.png "MarineGEO logo")
 
-One a specific item is selected, it will be automatically redirected to the ‘Select Batch’ section, where you can choose the required batch to view traceability data. You can either search the batch by inserting the batch ID or date at the search field or either can directly click on the relevant batch from the display table below.
+One a specific item is selected, it will be automatically redirected to the ‘Select Batch’ section, where you can choose the required batch to view traceability data. You can either search the batch by inserting the [batch ID](../intro/#batch-id) or date at the search field or either can directly click on the relevant batch from the display table below.
 
 
 

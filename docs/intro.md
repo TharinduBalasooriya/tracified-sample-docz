@@ -60,9 +60,8 @@ Consignee - the party who receives the CoC request made
 
  A unique identifier given to identify each batch of the supply chain
  
- Ex: 	Agri domain - Tomatoes001, Apples_123
-	
-	Apparel domain - CB001, WD123
+ Ex: 	**Agri domain** - Tomatoes001, Apples_123 |
+	**Apparel domain** - CB001, WD123
 
 #### Traceability Data
 

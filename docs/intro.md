@@ -72,7 +72,7 @@ The process of mapping and showing the entire journey of the product manufacture
 
 The map shown to the end consumer, which contains all the specific locations through which the product went through during different stages of the supply chain.
 
-#### Consumer-map-Geo-locations
+#### Geo-locations
 
 The locations identified through GPS or IP addresses, to track the product journey
 

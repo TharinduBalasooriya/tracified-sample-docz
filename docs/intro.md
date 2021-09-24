@@ -49,9 +49,6 @@ Live data which will be collected for each stage of the supply  chain with use o
 ####  TDP - Traceability Data Packets
 The traceability information which you can see in Tracified Insights Portal with related to one stage can be identified as a Traceability Product Line
 
-####  OTP - Overall Traceability Profiles
-Multiple TDPs which are combined together can be identified as Overall Traceability Profiles
-
 #### Change of Custody (CoC)
 Moving a item from one organization to another organization within the a particular supply chain 
 
@@ -59,6 +56,15 @@ Consignor - the party who creates the CoC request
 
 Consignee - the party who receives the CoC request made
 
+#### Batch ID
+
+ A unique identifier given to identify each batch of the supply chain
+	Ex: Agri domain - Tomatoes001, Apples_123
+	    Apparel domain - CB001, WD123
+
+#### Traceability Data
+
+the process of mapping and showing the entire journey of the product manufactured from raw materials to finished goods.
 
 
 export const VideoIframe = () => (

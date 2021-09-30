@@ -17,7 +17,17 @@ module.exports = {
  
  
   themeConfig: {
+    algolia: {
+      apiKey: '3f7b5b74ceeed5112357f013ea6541db',
+      indexName: 'docusaurus-2',
+      appId: 'O8DRFWFEY1',
 
+      // Optional: see doc section bellow
+      // contextualSearch: true,
+
+      //... other Algolia params
+    },
+    
     googleAnalytics: {
       trackingID: 'UA-202537341-1',
       // Optional fields.
@@ -121,5 +131,9 @@ module.exports = {
       },
     ],
   ],
+  
+
+    
+
 };
 

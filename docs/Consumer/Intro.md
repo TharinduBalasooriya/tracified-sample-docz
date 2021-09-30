@@ -1,5 +1,9 @@
 ---
 sidebar_position: 1
+title: A doc with tags
+tags:
+  - Demo
+  - Getting started
 ---
 
 # Intro

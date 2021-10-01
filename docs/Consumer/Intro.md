@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
-title: A doc with tags
 tags:
-  - Demo
+  - Consumer App
   - Getting started
 ---
 

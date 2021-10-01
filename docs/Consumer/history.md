@@ -1,5 +1,8 @@
 ---
 sidebar_position: 6
+tags:
+  - Consumer App
+ 
 ---
 # Scanned History
 

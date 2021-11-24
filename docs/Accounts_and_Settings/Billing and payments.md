@@ -10,6 +10,8 @@ sidebar_position: 3
 :::
 
 -  You should own a Shopify webshop
+
+
 :::note Should have products?
 :::
 

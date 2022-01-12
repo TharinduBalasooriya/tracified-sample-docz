@@ -1,7 +1,7 @@
 pipeline {
   agent any
     parameters { 
-        choice(name: 'NODE_VERSION', choices: ['NodeJS 13.11.0', 'NodeJS 7.7.0'], description: '') 
+        choice(name: 'NODE_VERSION', choices: ['NodeJS 12.20.1', 'NodeJS 7.7.0'], description: '') 
     }   
   
   stages {

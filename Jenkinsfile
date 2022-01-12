@@ -8,7 +8,7 @@ pipeline {
         sh 'npm --version'
         sh 'npm install'
         script {
-          if (env.BRANCH_NAME == "release") {
+          if (env.BRANCH_NAME == "master") {
             sh 'npm run-script build'
           } else {
             sh 'npm run-script build'
